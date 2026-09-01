@@ -3,7 +3,7 @@
 Interactive Jupyter notebook exploration of orbital mechanics and planetary motion — numerical simulations, visualisations, and experiments in gravitational dynamics collected in a single, runnable notebook.
 
 ## Contents
-- `2025_planetary_motion.ipynb` — primary notebook with explanations, simulations, plots, and (where applicable) animations demonstrating two-body and multi-body orbital dynamics, numerical integrators, parameter studies, and visual diagnostics.
+- `planetary_motion.ipynb` — primary notebook with explanations, simulations, plots, and (where applicable) animations demonstrating two-body and multi-body orbital dynamics, numerical integrators, parameter studies, and visual diagnostics.
 - `README.md` — this file.
 
 ## Goals
