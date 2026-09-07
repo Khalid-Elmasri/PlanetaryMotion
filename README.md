@@ -76,7 +76,7 @@ The Earth-Sun system is used as a benchmark case.
 
 Animated visualisations track the position of Earth throughout one complete orbital period.
 
-orbit_animation.gif
+![orbit_animation.gif]
 
 ---
 
