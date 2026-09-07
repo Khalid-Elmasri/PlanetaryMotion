@@ -69,8 +69,6 @@ The Earth-Sun system is used as a benchmark case.
 
 ### Example Output
 
-<p align="center">
-  <img src="results/earth_orbit.The simulation reproduces the expected nearly-circular elliptical orbit, with the Sun located at one focus of the orbit.
 
 ---
 
