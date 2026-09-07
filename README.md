@@ -2,10 +2,10 @@
 
 A computational physics project that models planetary and exoplanetary motion using Keplerian orbital mechanics, numerical methods, and scientific visualization.
 
-![Python] (https://img.shields.iohon-3.11-blue)
-![NumPy](https://img.shields.iomPy-Scientific%20Computing-orange)
-![Matplotlib](https:///badge/Matplotlib-Visualization-green)
-![Physics](https://img.shdge/Domain-Orbital%20Mechanics-purple)
+! [Python](https://img.shields.iohon-3.11-blue)
+! [NumPy](https://img.shields.iomPy-Scientific%20Computing-orange)
+! [Matplotlib](https:///badge/Matplotlib-Visualization-green)
+! [Physics](https://img.shdge/Domain-Orbital%20Mechanics-purple)
 
 ---
 
