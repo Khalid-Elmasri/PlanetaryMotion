@@ -39,9 +39,7 @@ Planetary motion is governed by Newtonian gravitation and Kepler's Laws.
 
 For elliptical orbits, Kepler's Equation relates mean anomaly and eccentric anomaly:
 
-\[
-M = E - e\sin(E)
-\]
+M = E − e sin(E)
 
 where
 
@@ -101,25 +99,6 @@ Because the orbital period is significantly shorter than Earth's, numerical inte
 ![HJ Orbit](orbit_plot_HJ.png)
 
 The system was evolved across hundreds of orbital periods to investigate long-term stability.
-
----
-
-## Numerical Stability Analysis
-
-Numerical simulations depend strongly on the chosen integration time step.
-
-This project investigates:
-
-- Stability over long simulations
-- Positional drift
-- Computational cost
-- Time-step sensitivity
-
-Example analysis:
-
-<p align="center">
-  <img src="results/stability_analysis
-This helps identify suitable numerical parameters for reliable orbital simulations.
 
 ---
 
