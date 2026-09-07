@@ -78,8 +78,7 @@ The Earth-Sun system is used as a benchmark case.
 
 Animated visualisations track the position of Earth throughout one complete orbital period.
 
-<p align="center">
-  <img src="results/earth_animation.gif" width="500ighlights how orbital velocity changes along the trajectory in accordance with Kepler's Second Law.
+orbit_animation.gif
 
 ---
 
