@@ -98,7 +98,7 @@ Because the orbital period is significantly shorter than Earth's, numerical inte
 
 ### Example Output
 
-![HJ Orbit]()
+![HJ Orbit](orbit_plot_HJ.png)
 
 The system was evolved across hundreds of orbital periods to investigate long-term stability.
 
