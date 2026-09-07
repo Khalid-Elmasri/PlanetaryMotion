@@ -155,9 +155,3 @@ Potential extensions include:
 - Relativistic corrections
 - GPU acceleration
 - Interactive visualisation dashboard
-
-or
-
-```bash
-python src/orbit.py
-```
