@@ -33,38 +33,6 @@ The aim of this project is to combine mathematical modelling, numerical analysis
 
 ---
 
-## Project Structure
-
-```text
-planetary-motion-simulator/
-│
-├── README.md
-├── requirements.txt
-│
-├── notebooks/
-│   ├── 01_kepler_equation.ipynb
-│   ├── 02_earth_orbit.ipynb
-│   └── 03_hot_jupiter.ipynb
-│
-├── src/
-│   ├── kepler.py
-│   ├── orbit.py
-│   ├── visualization.py
-│   └── constants.py
-│
-├── results/
-│   ├── earth_orbit.png
-│   ├── earth_animation.gif
-│   ├── hot_jupiter_orbit.png
-│   ├── hot_jupiter_animation.gif
-│   └── stability_analysis.png
-│
-└── docs/
-    └── methodology.md
-```
-
----
-
 ## Scientific Background
 
 Planetary motion is governed by Newtonian gravitation and Kepler's Laws.
