@@ -126,8 +126,9 @@ This project demonstrates:
 ### Mathematics
 
 - Numerical root finding
-- Trigonometry
-- Differential equations
+- Numerical methods
+- Trigonometric modelling
+- Differential equation concepts
 
 ### Physics
 
