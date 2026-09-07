@@ -156,26 +156,6 @@ Potential extensions include:
 - GPU acceleration
 - Interactive visualisation dashboard
 
----
-
-## Installation
-
-```bash
-git clone https://github.com/yourusername/planetary-motion-simulator.git
-
-cd planetary-motion-simulator
-
-pip install -r requirements.txt
-```
-
----
-
-## Running the Project
-
-```bash
-jupyter notebook
-```
-
 or
 
 ```bash
