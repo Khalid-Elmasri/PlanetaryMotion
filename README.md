@@ -69,6 +69,7 @@ The Earth-Sun system is used as a benchmark case.
 
 ### Example Output
 
+![Orbit](orbit_plot.png)
 
 ---
 
